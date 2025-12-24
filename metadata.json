@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Rogue",
+  "description": "A roguelike match-3 RPG where you battle emoji monsters, collect perks, and cast elemental spells.",
+  "requestFramePermissions": []
+}
